@@ -5,8 +5,7 @@ import math as mt
 from scipy.stats import norm
 from scipy.stats import chi2
 
-chat_id = 408773855  # Ваш chat ID, не меняйте название переменной
-
+chat_id = 919511341 
 
 def solution(p: float, x: np.array) -> tuple:
     alpha = 1 - p
